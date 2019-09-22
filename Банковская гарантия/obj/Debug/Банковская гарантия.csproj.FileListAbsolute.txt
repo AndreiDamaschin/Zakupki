@@ -1,0 +1,19 @@
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\bin\Debug\Банковская гарантия.exe.config
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\bin\Debug\Банковская гарантия.exe
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\bin\Debug\Банковская гарантия.pdb
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\obj\Debug\Банковская гарантия.csprojAssemblyReference.cache
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\obj\Debug\MainWindow.g.cs
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\obj\Debug\App.g.cs
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\obj\Debug\Банковская гарантия_MarkupCompile.cache
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\obj\Debug\Банковская гарантия_MarkupCompile.lref
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\obj\Debug\MainWindow.baml
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\obj\Debug\Банковская гарантия.g.resources
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\obj\Debug\Банковская_гарантия.Properties.Resources.resources
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\obj\Debug\Банковская гарантия.csproj.GenerateResource.cache
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\obj\Debug\Банковская гарантия.csproj.CoreCompileInputs.cache
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\obj\Debug\Банковская гарантия.exe
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\obj\Debug\Банковская гарантия.pdb
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\bin\Debug\WinSCP.exe
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\bin\Debug\WinSCPnet.dll
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\obj\Debug\Банковская гарантия_Content.g.cs
+C:\Users\anddv\source\repos\Банковская гарантия\Банковская гарантия\obj\Debug\Банковская гарантия.csproj.CopyComplete
